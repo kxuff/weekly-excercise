@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708771191 source:c:\bai tap\sdltest\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
